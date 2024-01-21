@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A responsive webpage with Tailwind CSS and React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sample fully reasponsive webpage to showcase react navbar with tailwind css. Also have added some chart using react-appexchart and react-calendar.
 
 ## Available Scripts
 
@@ -14,57 +14,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+![border](https://github.com/Shruti/tailwind-react/assets/41289098/f87f90f5-e9d6-4887-9d6f-691320034b6c)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Tech-Stack used
 
-### `npm run build`
+![html](https://github.com/Shruti/tailwind-react/assets/41289098/00343d1c-ecb3-4a7f-87e8-2a5dbec97a41)![react](https://github.com/Shruti/tailwind-react/assets/41289098/f5109853-dba1-4c43-a3ea-7d0b71aa5a1a)![tw](https://github.com/Shruti/tailwind-react/assets/41289098/06f94791-2d58-477f-81e8-f11e81bbc8af)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Let's get connected on [LinkedIn](https://www.linkedin.com/in/shrutibera/)**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![border](https://github.com/Shruti/tailwind-react/assets/41289098/f87f90f5-e9d6-4887-9d6f-691320034b6c)
 
-### `npm run eject`
+# Project Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot1](https://github.com/Shruti/tailwind-react/assets/41289098/107311c7-58bc-441a-80ae-f6213ff83c3e)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot2](https://github.com/Shruti/tailwind-react/assets/41289098/8de8c73b-b18c-424a-8a65-cbf94fcf03dc)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot3](https://github.com/Shruti/tailwind-react/assets/41289098/b0b0cc94-36e7-45de-8ecc-51e40c188f55)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot4](https://github.com/Shruti/tailwind-react/assets/41289098/39629720-3d07-417b-bde6-ea4700af8796)
