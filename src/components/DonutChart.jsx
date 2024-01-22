@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import ReactApexChart from 'react-apexcharts'
 
-
 const DonutChart = () => {
     const [state, setState] = useState({
         series: [44, 55, 41, 17, 15],

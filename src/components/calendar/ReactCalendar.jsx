@@ -6,16 +6,16 @@ const events = [
     { title: 'Meeting', start: new Date() }
 ]
 
-const ReactCalendar = () => {    
+const ReactCalendar = () => {
 
     const handleDateClick = (arg) => {
         alert(arg.dateStr);
-      };
+    };
     return (
         <div className="container mx-auto my-auto">
             <section class="mx-auto max-w-screen-2xl p-4 md:p-6 2xl:p-10">
-            <div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
-                    <h2 class="mb-4 text-3xl font-bold text-gray-900 dark:text-white">Company Calendar</h2>
+                <div className="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
+                    <h2 className="mb-4 text-3xl font-bold text-gray-900 dark:text-white">Company Calendar</h2>
                 </div>
                 <FullCalendar
                     plugins={[dayGridPlugin]}
@@ -29,7 +29,7 @@ const ReactCalendar = () => {
                         left: 'prev,next today',
                         center: 'title',
                         right: 'dayGridMonth,timeGridWeek,timeGridDay'
-                      }}
+                    }}
                     events={events}
                     eventContent={renderEventContent}
                 />

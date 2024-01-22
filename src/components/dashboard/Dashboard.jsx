@@ -5,9 +5,9 @@ import DonutChart from '../DonutChart'
 import Map from '../Map'
 
 const Dashboard = () => {
-  return (    
+  return (
     <div className='container mx-auto my-auto'>
-      <main>  
+      <main>
         <div className='mx-auto max-w-screen-2xl p-4 md:p-6 2xl:p-10'>
           <div className='grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-4 2xl:gap-7'>
             {/*card items starts*/}
@@ -118,7 +118,7 @@ const Dashboard = () => {
                 </div>
               </div>
               <div>
-              <Charts/>
+                <Charts />
               </div>
             </div>
             <div className='col-span-12 rounded-sm border border-stroke bg-white p-7 shadow-sm xl:col-span-4'>
@@ -143,32 +143,32 @@ const Dashboard = () => {
 
               </div>
               <div>
-                  <ColumnChart/>
-                                  </div>
+                <ColumnChart />
+              </div>
             </div>
             <div className='col-span-12 rounded-sm border border-stroke bg-white px-5 pt-7 pb-5 shadow-sm sm:px-7 xl:col-span-5'>
               <div className='mb-3 justify-between gap-4 sm:flex'>
                 <div>
-                <p className='text-xl font-bold text-black dark:text-white'>
+                  <p className='text-xl font-bold text-black dark:text-white'>
                     Visitor Analytics
                   </p>
                 </div>
-               </div>
-               <div className='mb-2'>
-              <DonutChart/>
-            </div>
+              </div>
+              <div className='mb-2'>
+                <DonutChart />
+              </div>
             </div>
             <div className='col-span-12 rounded-sm border border-stroke bg-white px-5 pt-7 pb-5 shadow-sm sm:px-7 xl:col-span-7'>
-            <div className='mb-3 justify-between gap-4 sm:flex'>
-            <div>
-                <p className='text-xl font-bold text-black dark:text-white'>
+              <div className='mb-3 justify-between gap-4 sm:flex'>
+                <div>
+                  <p className='text-xl font-bold text-black dark:text-white'>
                     Region Labels
                   </p>
                 </div>
-           
-            </div>
-            <div>
-                <Map/>
+
+              </div>
+              <div>
+                <Map />
               </div>
             </div>
           </div>
